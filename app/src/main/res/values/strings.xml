@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Deep ChatRooms</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Some Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="err_password_confirmation">Password Did Not Matched</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
